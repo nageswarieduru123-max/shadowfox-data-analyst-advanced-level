@@ -72,11 +72,6 @@ The dashboard includes:
 - 👨‍💼 Employees by Gender
 - 📊 Attrition Rate by Department
 - 💡 Key Insights & Recommendations
-
-## 🖼️ Dashboard Preview
-
-![ShadowFox Advanced HR Analytics Dashboard](dashboard.png)
-
 ## 💡 Key Insights
 
 The dashboard helps identify workforce patterns, departmental differences, employee attrition levels, and compensation trends.
